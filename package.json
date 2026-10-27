@@ -1,7 +1,7 @@
 {
-  "name": "exp-10",
+  "name": "vlogwriter",
   "version": "1.0.0",
-  "description": "",
+  "description": "InkSpace mini blog and vlog writing web application",
   "main": "server.js",
   "devDependencies": {},
   "scripts": {

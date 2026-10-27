@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: inkspace
+    name: vlogwriter
     env: node
     plan: free
     buildCommand: npm install
